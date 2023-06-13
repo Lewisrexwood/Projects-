@@ -1,3 +1,5 @@
+## this is a simple blackjack game in python, one of my first projects i ever wrote in it :) enjoy! 
+## note it only takes Y/N as H/S as capitals, 
 import time
 import random
 
